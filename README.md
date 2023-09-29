@@ -1,6 +1,6 @@
 <h1>Hey there 👋, I'm Dylan</h1>
 
-<h3>I've spent more than 7 years working in customer experience and sales, helping my team hit their sales goals each month and building strong bonds with important clients. But now, I've taken a new path that's got me really excited – learning web development. I've always loved tech and how it can shake up how we do business.</h3>
+I've spent more than 7 years working in customer experience and sales, helping my team hit their sales goals each month and building strong bonds with important clients. But now, I've taken a new path that's got me really excited – learning web development. I've always loved tech and how it can shake up how we do business.
 
 <h1>A little more about me...</h1>
 
